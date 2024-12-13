@@ -1,0 +1,2 @@
+path/to/large/file filter=lfs diff=lfs merge=lfs -text
+C:/Users/Abir/Desktop/ARVisiteEcole.zip filter=lfs diff=lfs merge=lfs -text
